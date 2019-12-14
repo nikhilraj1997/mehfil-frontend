@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mehfil</string>
+
+    <string name="mehfil">Mehfil</string>
+    <string name="tune">Tune</string>
+    <string name="learn">Learn</string>
+    <string name="profile">Profile</string>
+    <string name="error_text">There was an error in loading the feed</string>
+    <string name="post_share_text">Share</string>
+</resources>
